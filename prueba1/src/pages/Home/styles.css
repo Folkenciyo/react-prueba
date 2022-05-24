@@ -1,0 +1,14 @@
+.Links{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: flex-start;
+    margin: 50px;
+}
+
+ul{ display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: flex-start;
+    list-style:none ;
+}
